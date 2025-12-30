@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anindya Sarkar | Network Operations Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="hero">
+  <h1>Anindya Sarkar</h1>
+  <h2>Senior Network Operations Engineer</h2>
+  <p>GPON / FTTx | ISP Service Delivery | SLA & MTTR Optimization</p>
+
+  <div class="buttons">
+    <a href="#" class="btn">Download Resume</a>
+    <a href="https://linkedin.com" class="btn secondary">LinkedIn</a>
+  </div>
+</header>
+
+<section class="section">
+  <h3>About Me</h3>
+  <p>
+    Senior Network Operations professional with 14+ years of experience in ISP
+    service delivery, GPON/FTTx networks, Cisco switching, and large-scale outage
+    recovery. Proven expertise in improving SLA compliance, reducing MTTR, and
+    leading teams during critical incidents.
+  </p>
+</section>
+
+<section class="section light">
+  <h3>Core Skills</h3>
+  <ul class="skills">
+    <li>GPON / FTTx Architecture</li>
+    <li>OLT / ONU Configuration</li>
+    <li>Cisco Catalyst Switching</li>
+    <li>VLAN, LACP, STP Optimization</li>
+    <li>SLA & MTTR Management</li>
+    <li>PRTG, MRTG, SNMP</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h3>Experience Highlights</h3>
+  <ul>
+    <li>Managed GPON network serving 6,000+ users across multiple hubs</li>
+    <li>Maintained 99.8% uptime through proactive monitoring</li>
+    <li>Reduced MTTR from 7.5 hours to 3.2 hours</li>
+    <li>Led network restoration during Cyclone Amphan</li>
+    <li>Improved SLA compliance from 87% to 98%</li>
+  </ul>
+</section>
+
+<section class="section light">
+  <h3>Key Achievements</h3>
+  <ul>
+    <li>🏆 Highest ARPU Performer (2023–2024)</li>
+    <li>🚀 Added 1,500+ users during COVID lockdown</li>
+    <li>⚡ 38% reduction in broadcast & STP incidents</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h3>Certifications</h3>
+  <p>Cisco • AWS • Fortinet • Business Analytics • Project Management</p>
+</section>
+
+<section class="section light">
+  <h3>Project Case Study</h3>
+  <p>
+    <strong>ISP Access Network Optimization</strong><br>
+    Optimized GPON and L2 switching infrastructure using LACP uplinks,
+    VLAN pruning, and proactive monitoring—resulting in 25% throughput
+    improvement and packet loss below 1%.
+  </p>
+</section>
+
+<section class="section contact">
+  <h3>Contact</h3>
+  <p>Email: your@email.com</p>
+  <p>Location: Open to UAE / KSA / EU opportunities</p>
+</section>
+
+<footer>
+  <p>© 2025 Anindya Sarkar</p>
+</footer>
+
+</body>
+</html>
